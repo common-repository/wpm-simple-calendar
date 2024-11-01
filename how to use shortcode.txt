@@ -1,0 +1,13 @@
+shortcode use below formate in anywhere wordpress
+
+1.
+
+[calendar]
+
+
+shortcode use below formate in anywhere wordpress php file 
+
+
+2.
+
+<?php echo do_shortcode('[calendar]');?>
